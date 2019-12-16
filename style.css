@@ -28,7 +28,7 @@ button:hover {
 }
 
 img {
-    padding: 50px;
+    /* margin: 50px; */
     display: none;
     margin: 0 auto;
 }
